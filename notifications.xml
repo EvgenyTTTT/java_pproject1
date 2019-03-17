@@ -1,0 +1,13 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
+    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Profiling" />
+    <notification groupId="Remote Desktop" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+    <notification groupId="sbt Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+  </component>
+</application>
